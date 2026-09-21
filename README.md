@@ -1,7 +1,7 @@
 # Battery-Anomaly-Detection-XAI
 > 🏭 Hugging Face DistilBert 기반 Transformer Autoencoder와 SHAP을 활용한 배터리팩 이상탐지 및 원인 규명 파이프라인
 
-![Award](https://img.shields.io/badge/Award-데이터분석경진대회_1위_금상-gold)
+![Award](https://img.shields.io/badge/Award-데이터분석경진대회_대상-gold)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg)
 
